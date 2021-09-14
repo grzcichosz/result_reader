@@ -1,0 +1,1 @@
+name	surname	birth	pesel	sex	sampleid
