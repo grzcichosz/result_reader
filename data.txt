@@ -1,1 +1,5 @@
-name	surname	birth	pesel	sex	sampleid
+sample_id	date	result
+1000000000	2021-09-24	ujemny
+1000000001	2021-09-25	ujemny
+1000000002	2021-09-24	ujemny
+1000000003	2021-09-25	dodatni
